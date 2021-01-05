@@ -28,7 +28,7 @@ This was a group effort. Tasks were specified and broken down between two smalle
 Frontend team includes <br>
 Almonzo Rhoden 
 Haver Calles 
-Julia Horan 
+Julia Horan.
 
 Backend team includes  
 David Johnson
