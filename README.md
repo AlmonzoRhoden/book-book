@@ -26,7 +26,7 @@ MIT
 This was a group effort. Tasks were specified and broken down between two smaller groups. 
 
 Frontend team includes <br>
-Almonzo Rhoden 
+Almonzo Rhoden .
 Haver Calles 
 Julia Horan
 
